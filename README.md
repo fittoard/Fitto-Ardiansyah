@@ -1,5 +1,3 @@
-# Fitto-Ardiansyah
-Tentang Metode Nomerik
 # UTS-METODE-NUMERIK
 UTS METODE NUMERIk
 1.	Persamaan non linier yang diberikan adalah:
